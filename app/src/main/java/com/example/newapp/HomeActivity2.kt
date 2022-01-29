@@ -1,5 +1,6 @@
 package com.example.newapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
@@ -15,7 +16,9 @@ class HomeActivity2 : AppCompatActivity() {
     }
 
     fun handleClick(view: android.view.View) {
-        Toast.makeText(this, "sending",Toast.LENGTH_SHORT).show();
+        var intent= Intent(this,
+                MainActivity::class.java)
+        startActivity(intent)
     }
 
 }
