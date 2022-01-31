@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_base_permission.xml" value="0.115625" />
+        <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_content_provider_main.xml" value="0.115625" />
+        <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_firestore.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_home2.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/activity_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/manohar sai/AndroidStudioProjects/NewApp/app/src/main/res/layout/rv_item_row_plank.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
